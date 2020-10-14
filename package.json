@@ -1,0 +1,23 @@
+{
+  "name": "gyp",
+  "version": "0.0.1",
+  "description": "Grow Your Plant - relaxing game",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "GYP - Grow Your Plant"
+  },
+  "keywords": [
+    "electron",
+    "js"
+  ],
+  "author": "CatProgrammerYT",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^10.1.3"
+  }
+}
